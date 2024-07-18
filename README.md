@@ -1,1 +1,2 @@
 # Marketing-Analysis-for-CMR-company
+This report analyzes ten days of data collected from the company's CRM software. The data focuses on customer queries/issues (tickets), their resolution times, and associated information. The report aims to identify trends and insights related to ticket generation, resolution, agent performance, department and issue category contribution, and potential correlations between these aspects. 
